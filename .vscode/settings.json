@@ -1,0 +1,20 @@
+{
+    "idf.showNotification": true,
+    "cmake.sourceDirectory": "D:/FYP/CODE/firmware",
+    "idf.projectDir": "D:/FYP/CODE/firmware",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp_ftdi.cfg",
+        "target/esp32.cfg"
+    ],
+    "idf.customExtraVars": {},
+    "clangd.path": "C:\\Espressif\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+    "clangd.arguments": [
+        "--background-index",
+        "--query-driver=**",
+        "--compile-commands-dir=D:\\FYP\\CODE\\firmware\\build"
+    ],
+    "cmake.configureOnOpen": false,
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "idf.port": "COM5",
+    "idf.currentSetup": "D:\\esp\\v5.5.3\\esp-idf"
+}
