@@ -1,0 +1,15 @@
+{
+  "sharp_min": 9.84450387954712,
+  "bright_min": 114.48341504570578,
+  "bright_max": 202.8069714604592,
+  "share_flagged_validation": {
+    "clean": 0.031,
+    "blur radius 2": 1.0,
+    "blur radius 4": 1.0,
+    "jpeg quality 20": 0.043,
+    "jpeg quality 5": 0.02,
+    "dark x0.5": 1.0,
+    "bright x1.6": 0.875,
+    "noise sigma 20": 0.017
+  }
+}

@@ -1,0 +1,6 @@
+Pending follow-up tasks
+
+- Deploy the app from branch APP_AI/ML using `streamlit run app\app.py`.
+- Confirm the hosting environment uses Python 3.13 and installs requirements.txt.
+- Confirm model files in outputs/ are included in the deployed artifact.
+- Review and publish the requested screenshots and short demo video; they remain local and are not part of this deployment commit.

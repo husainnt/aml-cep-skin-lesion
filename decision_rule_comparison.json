@@ -1,0 +1,42 @@
+{
+  "metadata logistic regression": {
+    "T": 0.26000000000000006,
+    "tau": 0.2156194063882482,
+    "t": 0.6471410616977107,
+    "cap": 0.25,
+    "defer_share": 0.1,
+    "note": "comparison model, rule fitted on validation lesions only, not a locked model"
+  },
+  "metadata random forest": {
+    "T": 1.420000000000001,
+    "tau": 0.28185237200665353,
+    "t": 0.5852603808882755,
+    "cap": 0.25,
+    "defer_share": 0.1,
+    "note": "comparison model, rule fitted on validation lesions only, not a locked model"
+  },
+  "metadata gradient boosting": {
+    "T": 1.2300000000000009,
+    "tau": 0.3335859502363196,
+    "t": 0.37042944554674995,
+    "cap": 0.25,
+    "defer_share": 0.1,
+    "note": "comparison model, rule fitted on validation lesions only, not a locked model"
+  },
+  "ResNet18 + logistic regression (image)": {
+    "T": 0.9500000000000006,
+    "tau": 0.4186385308747275,
+    "t": 0.6543975182879815,
+    "cap": 0.25,
+    "defer_share": 0.1,
+    "note": "comparison model, rule fitted on validation lesions only, not a locked model"
+  },
+  "ResNet18 + logistic regression (image + details)": {
+    "T": 0.9300000000000006,
+    "tau": 0.4556477893927928,
+    "t": 0.6299704132389706,
+    "cap": 0.25,
+    "defer_share": 0.1,
+    "note": "comparison model, rule fitted on validation lesions only, not a locked model"
+  }
+}
